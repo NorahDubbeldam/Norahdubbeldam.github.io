@@ -1,0 +1,17 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: var(--white);
+    overflow-x: hidden;
+
+    /* Colors */
+    --black: #1d1d1b;
+    --white: #eaeaea;
+    --yellow: #e8fe06;
+    --green: #61e597;
+    --turqoise: #00aca0;
+    --purple: #7f91fc;
+}
